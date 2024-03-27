@@ -1,5 +1,6 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="flutter_create_template_diff2.flutter_create_template_diff2">
+   <application
         android:label="flutter_create_template_diff2"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
