@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+```bash
+flutter create --project-name flutter_create_template_diff2 --platforms "ios,android" flutter-create-template-diff
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
