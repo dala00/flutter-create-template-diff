@@ -1,10 +1,6 @@
-# flutter_create_template_diff2
+# flutter_create_template_diff
 
 A new Flutter project.
-
-```bash
-flutter create --project-name flutter_create_template_diff2 --platforms "ios,android" flutter-create-template-diff
-```
 
 ## Getting Started
 
