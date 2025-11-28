@@ -1,4 +1,4 @@
-# flutter_create_template_diff2
+# flutter_create_template_diff
 
 A new Flutter project.
 
